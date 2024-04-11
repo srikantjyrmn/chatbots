@@ -1,0 +1,4 @@
+chatenv/*
+.env
+.DS_Store
+*pycache*

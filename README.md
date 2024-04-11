@@ -1,2 +1,2 @@
 # chatbots
-A repository for experiments with chat-bots
+A repository for experiments with chat-bots.

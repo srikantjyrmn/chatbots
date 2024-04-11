@@ -1,0 +1,8 @@
+ollama
+transformers
+langchain
+langchainhub
+langchain_openai
+tavily-python
+llama_index
+numexpr
